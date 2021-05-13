@@ -16,6 +16,7 @@ export default defineConfig({
       title: '问题集',
       path: '/question',
     },
-  ]
+  ],
   // more config: https://d.umijs.org/config
+  exportStatic: {}
 });
