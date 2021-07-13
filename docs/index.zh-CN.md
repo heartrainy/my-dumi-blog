@@ -15,7 +15,7 @@ hero:
 #   - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
 #     title: 特性 3
 #     desc: Balabala
-footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
+footer: Open-source MIT Licensed | heartrainy © 2019 - 2021 | [苏ICP备19051664号-1](https://beian.miit.gov.cn/#/Integrated/index)
 order: 1
 ---
 

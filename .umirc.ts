@@ -16,6 +16,10 @@ export default defineConfig({
       title: '问题集',
       path: '/question',
     },
+    {
+      title: '算法',
+      path: '/algorithm',
+    },
   ],
   // more config: https://d.umijs.org/config
   exportStatic: {}
